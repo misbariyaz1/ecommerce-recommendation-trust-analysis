@@ -18,8 +18,7 @@ A mixed-methods study of how trust and perceived manipulation relate to purchase
 Python, [libraries you used, e.g. pandas, matplotlib], Microsoft Forms
 
 ## Files
-- `[notebook name].ipynb`: full analysis
-- `figures/`: charts
+- `[phase1 analysis].ipynb`: full analysis
 - `survey_questions.pdf`: survey instrument (questions only)
 
 ## Data
