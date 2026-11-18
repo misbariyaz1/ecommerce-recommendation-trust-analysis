@@ -25,7 +25,7 @@ Python (pandas, matplotlib, statsmodels), Microsoft Forms
 
 ## Data
 - Clickstream data: RetailRocket e-commerce dataset (public, on Kaggle, not included here due to size). The notebook expects it as `events.csv` in the same folder.
-The survey responses are anonymous and contain no names or contact details.
+- The survey responses are anonymous and contain no names or contact details.
 
 ## Author
 Misba Riyaz | MSc Business Analytics, University of Exeter | [LinkedIn](https://www.linkedin.com/in/misbariyaz)
