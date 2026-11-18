@@ -19,11 +19,13 @@ Python (pandas, matplotlib, statsmodels), Microsoft Forms
 
 ## Files
 - `Phase1-Retail-Analysis.ipynb`: clickstream funnel analysis and survey analysis
+- `Consumer Trust and AI Recommendation _Systems in Online Shopping.xlsx`: survey responses (200 collected, 197 valid after cleaning)
+- `open_text_responses.xlsx`: open-text survey answers extracted for thematic coding
 - `FINAL REPORT.pdf`: full dissertation
 
 ## Data
 - Clickstream data: RetailRocket e-commerce dataset (public, on Kaggle, not included here due to size). The notebook expects it as `events.csv` in the same folder.
-- Survey responses (197 valid) are not shared, to protect participant anonymity, so the survey section of the notebook cannot be re-run without the original file.
+The survey responses are anonymous and contain no names or contact details.
 
 ## Author
 Misba Riyaz | MSc Business Analytics, University of Exeter | [LinkedIn](https://www.linkedin.com/in/misbariyaz)
