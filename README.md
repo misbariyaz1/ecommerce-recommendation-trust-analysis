@@ -15,12 +15,15 @@ A mixed-methods study of how trust and perceived manipulation relate to purchase
 - The moderation effect was not significant. Reliability and sample size limited this test, and I report that openly.
 
 ## Tools
-Python, [libraries you used, e.g. pandas, matplotlib], Microsoft Forms
+Python (pandas, matplotlib, statsmodels), Microsoft Forms
 
 ## Files
-- `[phase1 analysis].ipynb`: full analysis
-- `survey_questions.pdf`: survey instrument (questions only)
+- `Phase1-Retail-Analysis.ipynb`: clickstream funnel analysis and survey analysis
+- `FINAL REPORT.pdf`: full dissertation
 
 ## Data
-Clickstream data: RetailRocket e-commerce dataset (public, on Kaggle, not included here due to size).
-Survey responses are not shared, to protect participant anonymity.
+- Clickstream data: RetailRocket e-commerce dataset (public, on Kaggle, not included here due to size). The notebook expects it as `events.csv` in the same folder.
+- Survey responses (197 valid) are not shared, to protect participant anonymity, so the survey section of the notebook cannot be re-run without the original file.
+
+## Author
+Misba Riyaz | MSc Business Analytics, University of Exeter | [LinkedIn](https://www.linkedin.com/in/misbariyaz)
